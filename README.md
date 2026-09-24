@@ -110,16 +110,7 @@ cd farmsentry/firmware
 
 ## 7. Team — Zehn Group
 
-| Name | Role |
-|---|---|
-| Nakamya Flavia | Project Manager |
-| Kayanja Rayaan | Researcher |
-| Okene Joseph | Embedded Systems |
-| Eboku Jesse | Electronics & Sensors |
-| Bindja Jessica | Engineer |
-| Kabenge Aydin | UI/UX Designer |
-| Gach Peter | Developer |
-| Kizito Fahad | Developer / Computer Science |
+
 
 ## 8. Status
 
